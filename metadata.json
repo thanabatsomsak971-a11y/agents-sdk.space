@@ -1,0 +1,6 @@
+{
+  "name": "Agent SDK Space",
+  "description": "Agent SDK Console with Gemini Live audio, Firebase Console dashboard, Firestore database manager, tool execution, and prompt playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
